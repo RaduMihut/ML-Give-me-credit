@@ -1,0 +1,3 @@
+"0","# Take a sample to work on"
+"0","creditDF <- totalCreditDF"
+"0","creditDF <- creditDF[1:10000,]"

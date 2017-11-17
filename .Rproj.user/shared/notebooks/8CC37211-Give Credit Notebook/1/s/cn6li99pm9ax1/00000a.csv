@@ -1,0 +1,6 @@
+"0","model <- glm(SeriousDlqin2yrs ~.,  family=binomial(link='logit'),  data=trainingDF)"
+"0","p <- predict(model, newdata=testDF, type=""response"")"
+"2","prediction from a rank-deficient fit may be misleading"
+"0","pr <- prediction(p, testDF$SeriousDlqin2yrs)"
+"0","prf <- performance(pr, measure = ""tpr"", x.measure = ""fpr"")"
+"0","plot(prf)"

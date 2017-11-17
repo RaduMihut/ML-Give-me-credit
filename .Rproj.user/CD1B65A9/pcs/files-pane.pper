@@ -1,0 +1,9 @@
+{
+    "path" : "~/git/machineLearning/GiveMeCredit",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

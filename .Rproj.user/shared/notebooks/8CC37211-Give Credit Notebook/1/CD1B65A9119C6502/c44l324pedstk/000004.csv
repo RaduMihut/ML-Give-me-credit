@@ -1,0 +1,3 @@
+"0","model.rf <- randomForest(SeriousDlqin2yrs ~ ., trainingDF, ntree=5000, norm.votes=FALSE)
+"
+"2","The response has five or fewer unique values.  Are you sure you want to do regression?"

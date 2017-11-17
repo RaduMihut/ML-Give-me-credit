@@ -1,0 +1,6 @@
+"0","model.svm <- svm(SeriousDlqin2yrs ~ ., data=trainingDF)"
+"2","Variable(s) ‘low.age’ and ‘not.eligible’ and ‘debt.with.no.income’ and ‘undefigned.debt’ constant. Cannot scale data."
+"0","pred.svm <- predict(model.svm, newdata = testDF, type=""response"")"
+"0","pr.svm <- prediction(pred.svm, testDF$SeriousDlqin2yrs)"
+"0","prf.svm <- performance(pr.svm, measure = ""tpr"", x.measure = ""fpr"")"
+"0","plot(prf.svm)"

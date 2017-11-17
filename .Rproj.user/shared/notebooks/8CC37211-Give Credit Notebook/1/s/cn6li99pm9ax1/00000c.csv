@@ -1,0 +1,7 @@
+"0","auc <- performance(pr, measure = ""auc"")"
+"0","auc <- auc@y.values[[1]]"
+"0","auc"
+"1","[1]"
+"1"," 0.8099722"
+"1","
+"

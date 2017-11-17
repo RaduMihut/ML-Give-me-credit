@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1510774221216.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E6024246",
+    "lastKnownWriteTime" : 1510844791,
+    "last_content_update" : 1510868406857,
+    "path" : "~/git/machineLearning/GiveMeCredit/Give Credit Notebook.Rmd",
+    "project_path" : "Give Credit Notebook.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "354,83",
+        "scrollLine" : "336",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

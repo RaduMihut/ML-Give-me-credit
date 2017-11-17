@@ -1,0 +1,8 @@
+"0","# clear variables"
+"0","closeAllConnections()"
+"0","rm(list=ls())"
+"0","# get new variables"
+"0","creditDF <- read.csv(""training.csv"", sep = "","")"
+"0","totalCreditDF <- creditDF"
+"0","#creditDF <- creditDF[1:10000,]"
+"0","head(creditDF)"
